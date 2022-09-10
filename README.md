@@ -8,7 +8,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Praticante de <strong>HTML e CSS</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📖</g-emoji> Desenvolvendo o projeto <strong><a href="https://github.com/RicardoVascL/Whare">Whare</a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📖</g-emoji> Desenvolvendo o projeto <strong><a href="https://github.com/RicardoVascL/Login-Page">Login-Page</a></strong></p>
 </li>
 </ul>
 
