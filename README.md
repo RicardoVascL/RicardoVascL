@@ -14,8 +14,6 @@
 
 <br>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c0c3a0760beb8ab3cc755c5b6f28b3daffe5943783d719c4433dd5c1a352086c/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35613936346333386664366439653538643264363537396563343130323337652f74756d626c725f6e356a7a786c594f4456317370366532766f315f72315f3430302e67696676"><img align="right" alt="jpg" width="250px" src="https://camo.githubusercontent.com/c0c3a0760beb8ab3cc755c5b6f28b3daffe5943783d719c4433dd5c1a352086c/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35613936346333386664366439653538643264363537396563343130323337652f74756d626c725f6e356a7a786c594f4456317370366532766f315f72315f3430302e67696676" data-canonical-src="https://64.media.tumblr.com/5a964c38fd6d9e58d2d6579ec410237e/tumblr_n5jzxlYODV1sp6e2vo1_r1_400.gifv" style="max-width: 100%;"></a></p>
-
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"></a></h3>
 Você pode me encontrar aqui 👇🏻
 <p align="left" dir="auto">
