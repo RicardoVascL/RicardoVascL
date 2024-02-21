@@ -5,7 +5,7 @@
 <h3 align="center" dir="auto"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDDD&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Front-End+%2B+Back-End" alt="Typing SVG" /></a></h3>
 <ul dir="auto"><br>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Praticante de <strong>HTML e CSS</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Praticante de <strong>JS and PY</strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📖</g-emoji> Desenvolvendo o projeto <strong><a href="https://ricardovascl.github.io/FlyOn">FlyOn</a></strong></p>
