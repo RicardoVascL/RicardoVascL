@@ -1,41 +1,38 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Oii+👋,+Seja+Bem+Vindo!+;Sou+Ricardo+Vasconcelos.)](https://git.io/typing-svg)
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hi--im-dinareli" class="anchor" aria-hidden="true" href="#hi--im-dinareli">
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDDD&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Front-End+%2B+Back-End" alt="Typing SVG" />
+  </a>
+</h3>
 
-<h3 align="center" dir="auto"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDDD&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Front-End+%2B+Back-End" alt="Typing SVG" /></a></h3>
-<ul dir="auto"><br>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Praticante de <strong>JS and PY</strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📖</g-emoji> Desenvolvendo o projeto <strong><a href="https://ricardovascl.github.io/FlyOn">FlyOn</a></strong></p>
-</li>
-</ul>
+## 📖 Sobre Mim
+- 👨‍💻 Parte do time PROA.AI **[C.AI.S](https://app.proa.ai)**
+- 👨‍💻 Desenvolvedor do projeto **[FlyOn](https://ricardovascl.github.io/FlyOn)**.
 
-<br>
+---
 
-<h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"></a></h3>
-Você pode me encontrar aqui 👇🏻
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/ric-vas-lim/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia dinareli" height="30" width="40" style="max-width: 100%;"></a>
-</p><br>
+## 💻 Minhas Stacks
 
-<h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools">
-</a>Conhecimentos:</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left" dir="auto">
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a> 
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
-</p>
+---
 
-<div>
+## 📊 Visitas no Perfil
+[![](https://visitcount.itsvg.in/api?id=RicardoVascL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/RicardoVascL">
-  
-</a>
+---
 
-</div>
-
-</article>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
