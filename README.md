@@ -28,11 +28,4 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 Visitas no Perfil
-[![](https://visitcount.itsvg.in/api?id=RicardoVascL&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
